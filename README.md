@@ -1,6 +1,10 @@
 # telco-churn-prediction
 Churn Prediction using ML models with EDA
 # Telco Customer Churn Prediction
+# Telco Churn Prediction
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/suyash-kulkarni-yes777)
 
 A machine learning project to predict whether a customer will churn (leave the service) based on their demographic, account, and usage data. Built with Python, Pandas, Seaborn, Scikit-learn, and XGBoost.
 
@@ -70,4 +74,37 @@ We performed the following:
 - XGBoost
 
 ---
+##To clone this Repo
+git clone https://github.com/Gitforsuyash/telco-churn-prediction.git
+cd telco-churn-prediction
+---
+---
+## To Install requirements
 
+pip install -r requirements.txt
+---
+---
+## To open notebook 
+jupyter notebook notebook/telco_churn_prediction.ipynb
+
+---
+## Business Insight
+Key drivers of churn include:
+
+Month-to-month contracts
+
+Lack of online security/tech support
+
+Higher monthly charges
+
+## Churn can be reduced by:
+Offering long-term contracts
+Bundling services
+Offering loyalty discounts
+---
+
+## Contribution
+Feel free to fork, raise issues, or submit PRs for improvements!!
+---
+## 📧 Contact
+Created by Suyash — aspiring AI/ML engineer. Connect on @linkedin or raise issues for discussion.
