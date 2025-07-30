@@ -4,7 +4,8 @@ Churn Prediction using ML models with EDA
 # Telco Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/suyash-kulkarni-yes777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suyash-kulkarni-yes777/)
+
 
 A machine learning project to predict whether a customer will churn (leave the service) based on their demographic, account, and usage data. Built with Python, Pandas, Seaborn, Scikit-learn, and XGBoost.
 
